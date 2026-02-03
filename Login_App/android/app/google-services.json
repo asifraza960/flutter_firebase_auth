@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "972154503554",
+    "project_id": "thuth-511c5",
+    "storage_bucket": "thuth-511c5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972154503554:android:cdc8df95e8fbba3c48cf9b",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_FdE242DotoRnikIVxtCT3XJ9lJusPlM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972154503554:android:9ace9f6be892246248cf9b",
+        "android_client_info": {
+          "package_name": "com.example.sing_up"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_FdE242DotoRnikIVxtCT3XJ9lJusPlM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
